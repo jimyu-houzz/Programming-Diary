@@ -1,4 +1,5 @@
 # Flask-Blog-Web
-To start application:
+This project uses Python and Flask as backend. and plain HTML to create a blog post website.
 
-python run.py
+To start application:
+```python run.py```
