@@ -1,4 +1,4 @@
-from flaskblog import create_app
+from blog import create_app
 
 # using the function to create the application with multiple packages
 # function already has the default class CONFIG, so no need to pass in arguments
